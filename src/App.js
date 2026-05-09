@@ -4,6 +4,7 @@ import ZainWork from './components/ZainWork';
 import LatestWork from './components/LatestWork';
 import Naseer from './components/Naseer';
 import Saher from './components/Saher';
+import Morning from './components/Morning';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
      {/* <Naseer/> */}
      {/* <LatestWork/> */}
      <Saher/>
+     <Morning/>
     </div>
   );
 }
