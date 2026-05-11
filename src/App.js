@@ -16,6 +16,11 @@ function App() {
      <h3> Muhammad Alyas </h3>
      <Saher/>
      <Morning/>
+     <ZainWork/>
+     <Naseer/>
+     <h3>Muhammad Zain Naseer</h3>
+     <h3>Muhammad Naseer Ul Haq</h3>
+     <LatestWork/>
     </div>
   );
 }
