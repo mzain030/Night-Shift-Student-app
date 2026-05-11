@@ -10,6 +10,8 @@ function App() {
      <ZainWork/>
      <Naseer/>
      <LatestWork/>
+     <h1>Fahad</h1>
+     <h1>Shahzad</h1>
     </div>
   );
 }
